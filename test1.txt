@@ -1,0 +1,12 @@
+ Volume in drive C is Windows
+ Volume Serial Number is C6AF-58AA
+
+ Directory of C:\Users\ravindra.s\Desktop\GITDemo
+
+20-06-2017  17:47    <DIR>          .
+20-06-2017  17:47    <DIR>          ..
+20-06-2017  17:47                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  119,100,325,888 bytes free
+
+Hello this is ravindra
